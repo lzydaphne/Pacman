@@ -4,6 +4,6 @@
 ## What?
 My first project written in c
 
-Project Name: Pacman
-Package: Allegro5
+Project Name: Pacman /n
+Package: Allegro5 /n
 IDE: visual studio 2019
